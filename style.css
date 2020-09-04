@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    
 }
 .logo{
     width: 200px;
@@ -138,7 +139,7 @@ h1{
 }
 
 .testimonial img{
-    width: 15%;
+    width: 60%;
 }
 
 .testimonial p{
@@ -150,6 +151,7 @@ h1{
     background-color: rgb(40, 37, 49);
     color: white;
     padding: 50px 100px;
+   
 }
 
 .bottom li{
